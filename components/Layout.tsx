@@ -36,7 +36,7 @@ export const Header: React.FC = () => {
   }, [isMenuOpen]);
 
   const navLinks = [
-    { path: 'https://nexus-agencys.pages.dev/', label: 'HOME', external: true },
+    { path: 'https://nexus-agency.pages.dev/', label: 'HOME', external: true },
     { path: '/services', label: 'SERVICES' },
     { path: '/work', label: 'WORK' },
     { path: '/about', label: 'ABOUT' },
